@@ -9,3 +9,4 @@ public class Add{
 	}
 }
 //Now we will merge this into the master branch
+//Made a new branch named feature 2 and pulling into feature1 from gitHub
